@@ -2,6 +2,10 @@
 
 A looping generative art sketch in p5.js inspired by an underwater fish-silhouette scene.
 
+## Screenshot
+
+![Fish loop screenshot](assets/screenshot.png)
+
 ## What it does
 
 - Renders a murky underwater environment with haze, depth, and soft light bloom.
